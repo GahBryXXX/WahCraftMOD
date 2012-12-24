@@ -1,0 +1,44 @@
+ENG:
+
+LEGEND:
++Added
+-Removed
+/Known bug
+*Ported to version
+
+WahCraft Indev
++Added Ruby Ore
++Added Sapphire Ore
++Added Ruby Tools (Without Hoe)
++Added Sapphire Tools (Without Hoe)
++Added Emerald Shovel and Sword
++Added Sticky x
++Added Lava Torch
+*Ported to Minecraft 1.3.2
+
+WahCraft Alpha 0.6
+-Removed Sticky x
+-Removed Lava Torch
+-Removed Emerald Tools
++Added Warning Fences
+*Ported to Minecraft 1.4.5
+
+WahCraft Alpha 1.8
++Added Emerald Tools
++Added Sapphire Knife
++Added Ruby Kinfe
++Added Emerald Knife
++Added Sapphire Block (Texture is beta)
++Added Ruby Block (Texture is beta)
++Added Salnitrum Dust
++Added Arborium Dust
++Added Prolosium Dust
++Added SNT Explosive
++Added ABT Explosive
++Added PLT Explosive
++Added "Over the GunPowder" achievement but it doesn't work.
++Added "Overpowa" achievement but it doesn't work.
+-The Ruby Ore is invisible 
+/The Sapphire Ore spawn is excesive
+*Ported to Minecraft 1.4.5
+
